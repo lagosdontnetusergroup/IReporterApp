@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>ABISOYE</Machine>
+    <WindowsUser>Falabs</WindowsUser>
+    <TargetPlatformIdentifier>WindowsPhoneApp</TargetPlatformIdentifier>
+    <TargetOsVersion>6.3</TargetOsVersion>
+    <TargetOsDescription>Windows Phone 8.1</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>8877204e-d7ab-4c2a-ba85-df930a47ce48</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Falabs\Downloads\DevAssets\Demo\IReporterApp %281%29\IReporterApp\IReporterApp\IReporterApp.WinPhone\obj\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Falabs\Downloads\DevAssets\Demo\IReporterApp %281%29\IReporterApp\IReporterApp\IReporterApp.WinPhone\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Falabs\Downloads\DevAssets\Demo\IReporterApp %281%29\IReporterApp\IReporterApp\IReporterApp.WinPhone\bin\Debug\IReporterApp.WinPhone.exe">
+      <PackagePath>IReporterApp.WinPhone.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Falabs\Downloads\DevAssets\Demo\IReporterApp %281%29\IReporterApp\IReporterApp\IReporterApp\bin\Debug\IReporterApp.dll">
+      <PackagePath>IReporterApp.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Falabs\Downloads\DevAssets\Demo\IReporterApp %281%29\IReporterApp\packages\Newtonsoft.Json.9.0.1\lib\portable-net45+wp80+win8+wpa81\Newtonsoft.Json.dll">
+      <PackagePath>Newtonsoft.Json.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Falabs\Downloads\DevAssets\Demo\IReporterApp %281%29\IReporterApp\IReporterApp\IReporterApp.WinPhone\Assets\ic_message_white_24dp.png">
+      <PackagePath>Assets\ic_message_white_24dp.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Falabs\Downloads\DevAssets\Demo\IReporterApp %281%29\IReporterApp\IReporterApp\IReporterApp.WinPhone\Assets\ic_search_white_24dp.png">
+      <PackagePath>Assets\ic_search_white_24dp.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Falabs\Downloads\DevAssets\Demo\IReporterApp %281%29\IReporterApp\IReporterApp\IReporterApp.WinPhone\Assets\Logo.scale-240.png">
+      <PackagePath>Assets\Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Falabs\Downloads\DevAssets\Demo\IReporterApp %281%29\IReporterApp\IReporterApp\IReporterApp.WinPhone\Assets\SmallLogo.scale-240.png">
+      <PackagePath>Assets\SmallLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Falabs\Downloads\DevAssets\Demo\IReporterApp %281%29\IReporterApp\IReporterApp\IReporterApp.WinPhone\Assets\SplashScreen.scale-240.png">
+      <PackagePath>Assets\SplashScreen.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Falabs\Downloads\DevAssets\Demo\IReporterApp %281%29\IReporterApp\IReporterApp\IReporterApp.WinPhone\Assets\Square71x71Logo.scale-240.png">
+      <PackagePath>Assets\Square71x71Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Falabs\Downloads\DevAssets\Demo\IReporterApp %281%29\IReporterApp\IReporterApp\IReporterApp.WinPhone\Assets\StoreLogo.scale-240.png">
+      <PackagePath>Assets\StoreLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Falabs\Downloads\DevAssets\Demo\IReporterApp %281%29\IReporterApp\IReporterApp\IReporterApp.WinPhone\Assets\WideLogo.scale-240.png">
+      <PackagePath>Assets\WideLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Falabs\Downloads\DevAssets\Demo\IReporterApp %281%29\IReporterApp\IReporterApp\IReporterApp.WinPhone\bin\Debug\IReporterApp.WinPhone.xr.xml">
+      <PackagePath>IReporterApp.WinPhone.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Falabs\Downloads\DevAssets\Demo\IReporterApp %281%29\IReporterApp\IReporterApp\IReporterApp.WinPhone\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Falabs\Downloads\DevAssets\Demo\IReporterApp %281%29\IReporterApp\IReporterApp\IReporterApp.WinPhone\bin\Debug\CreateReport.xbf">
+      <PackagePath>CreateReport.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Falabs\Downloads\DevAssets\Demo\IReporterApp %281%29\IReporterApp\IReporterApp\IReporterApp.WinPhone\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Falabs\Downloads\DevAssets\Demo\IReporterApp %281%29\IReporterApp\IReporterApp\IReporterApp.WinPhone\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

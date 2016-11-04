@@ -1,0 +1,12 @@
+IReporterApp.Droid.AddReport, IReporterApp.Droid;md5f5bc67a4b85b5f566c777e9a35993ee3.AddReport
+IReporterApp.Droid.AddReport, IReporterApp.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5f5bc67a4b85b5f566c777e9a35993ee3.AddReport
+IReporterApp.Droid.AddReport;md5f5bc67a4b85b5f566c777e9a35993ee3.AddReport
+ireporterapp.droid.AddReport;md5f5bc67a4b85b5f566c777e9a35993ee3.AddReport
+IReporterApp.Droid.IReporterAdapter, IReporterApp.Droid;md5f5bc67a4b85b5f566c777e9a35993ee3.IReporterAdapter
+IReporterApp.Droid.IReporterAdapter, IReporterApp.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5f5bc67a4b85b5f566c777e9a35993ee3.IReporterAdapter
+IReporterApp.Droid.IReporterAdapter;md5f5bc67a4b85b5f566c777e9a35993ee3.IReporterAdapter
+ireporterapp.droid.IReporterAdapter;md5f5bc67a4b85b5f566c777e9a35993ee3.IReporterAdapter
+IReporterApp.Droid.MainActivity, IReporterApp.Droid;md5f5bc67a4b85b5f566c777e9a35993ee3.MainActivity
+IReporterApp.Droid.MainActivity, IReporterApp.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5f5bc67a4b85b5f566c777e9a35993ee3.MainActivity
+IReporterApp.Droid.MainActivity;md5f5bc67a4b85b5f566c777e9a35993ee3.MainActivity
+ireporterapp.droid.MainActivity;md5f5bc67a4b85b5f566c777e9a35993ee3.MainActivity

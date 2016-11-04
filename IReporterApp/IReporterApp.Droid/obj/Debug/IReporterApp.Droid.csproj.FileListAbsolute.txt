@@ -1,0 +1,100 @@
+C:\Users\farquard\Documents\Visual Studio 2015\Projects\IReporterApp\IReporterApp\IReporterApp.Droid\bin\Debug\IReporterApp.Droid.dll
+C:\Users\farquard\Documents\Visual Studio 2015\Projects\IReporterApp\IReporterApp\IReporterApp.Droid\bin\Debug\IReporterApp.Droid.pdb
+C:\Users\farquard\Documents\Visual Studio 2015\Projects\IReporterApp\IReporterApp\IReporterApp.Droid\bin\Debug\IReporterApp.Droid.apk
+C:\Users\farquard\Documents\Visual Studio 2015\Projects\IReporterApp\IReporterApp\IReporterApp.Droid\bin\Debug\IReporterApp.Droid-Signed.apk
+C:\Users\farquard\Documents\Visual Studio 2015\Projects\IReporterApp\IReporterApp\IReporterApp.Droid\bin\Debug\IReporterApp.dll
+C:\Users\farquard\Documents\Visual Studio 2015\Projects\IReporterApp\IReporterApp\IReporterApp.Droid\bin\Debug\IReporterApp.pdb
+C:\Users\farquard\Documents\Visual Studio 2015\Projects\IReporterApp\IReporterApp\IReporterApp.Droid\obj\Debug\IReporterApp.Droid.csprojResolveAssemblyReference.cache
+C:\Users\farquard\Documents\Visual Studio 2015\Projects\IReporterApp\IReporterApp\IReporterApp.Droid\obj\Debug\IReporterApp.Droid.dll
+C:\Users\farquard\Documents\Visual Studio 2015\Projects\IReporterApp\IReporterApp\IReporterApp.Droid\obj\Debug\IReporterApp.Droid.pdb
+C:\Users\farquard\Documents\Visual Studio 2015\Projects\IReporterApp\IReporterApp\IReporterApp.Droid\obj\Debug\android\bin\IReporterApp.Droid.apk
+C:\Users\farquard\Documents\Visual Studio 2015\Projects\IReporterApp\IReporterApp\IReporterApp.Droid\obj\Debug\res\layout\ireporter_item_cell.xml
+C:\Users\farquard\Documents\Visual Studio 2015\Projects\IReporterApp\IReporterApp\IReporterApp.Droid\obj\Debug\res\layout\createreporter.xml
+C:\Users\farquard\Documents\Visual Studio 2015\Projects\IReporterApp\IReporterApp\IReporterApp.Droid\obj\Debug\res\layout\main.xml
+C:\Users\farquard\Documents\Visual Studio 2015\Projects\IReporterApp\IReporterApp\IReporterApp.Droid\obj\Debug\res\values\strings.xml
+C:\Users\farquard\Documents\Visual Studio 2015\Projects\IReporterApp\IReporterApp\IReporterApp.Droid\obj\Debug\res\drawable-hdpi\icon.png
+C:\Users\farquard\Documents\Visual Studio 2015\Projects\IReporterApp\IReporterApp\IReporterApp.Droid\obj\Debug\res\drawable-mdpi\icon.png
+C:\Users\farquard\Documents\Visual Studio 2015\Projects\IReporterApp\IReporterApp\IReporterApp.Droid\obj\Debug\res\drawable-xhdpi\icon.png
+C:\Users\farquard\Documents\Visual Studio 2015\Projects\IReporterApp\IReporterApp\IReporterApp.Droid\obj\Debug\res\drawable-xxhdpi\icon.png
+C:\Users\farquard\Documents\Visual Studio 2015\Projects\IReporterApp\IReporterApp\IReporterApp.Droid\obj\Debug\res\drawable-xxxhdpi\icon.png
+C:\Users\farquard\Documents\Visual Studio 2015\Projects\IReporterApp\IReporterApp\IReporterApp.Droid\obj\Debug\res\drawable-xxxhdpi\ic_search_white_24dp.png
+C:\Users\farquard\Documents\Visual Studio 2015\Projects\IReporterApp\IReporterApp\IReporterApp.Droid\obj\Debug\res\drawable-hdpi\ic_search_white_24dp.png
+C:\Users\farquard\Documents\Visual Studio 2015\Projects\IReporterApp\IReporterApp\IReporterApp.Droid\obj\Debug\res\drawable-mdpi\ic_search_white_24dp.png
+C:\Users\farquard\Documents\Visual Studio 2015\Projects\IReporterApp\IReporterApp\IReporterApp.Droid\obj\Debug\res\drawable-xhdpi\ic_search_white_24dp.png
+C:\Users\farquard\Documents\Visual Studio 2015\Projects\IReporterApp\IReporterApp\IReporterApp.Droid\obj\Debug\res\drawable-xxhdpi\ic_search_white_24dp.png
+C:\Users\farquard\Documents\Visual Studio 2015\Projects\IReporterApp\IReporterApp\IReporterApp.Droid\obj\Debug\res\drawable-xxxhdpi\ic_message_white_24dp.png
+C:\Users\farquard\Documents\Visual Studio 2015\Projects\IReporterApp\IReporterApp\IReporterApp.Droid\obj\Debug\res\drawable-hdpi\ic_message_white_24dp.png
+C:\Users\farquard\Documents\Visual Studio 2015\Projects\IReporterApp\IReporterApp\IReporterApp.Droid\obj\Debug\res\drawable-mdpi\ic_message_white_24dp.png
+C:\Users\farquard\Documents\Visual Studio 2015\Projects\IReporterApp\IReporterApp\IReporterApp.Droid\obj\Debug\res\drawable-xhdpi\ic_message_white_24dp.png
+C:\Users\farquard\Documents\Visual Studio 2015\Projects\IReporterApp\IReporterApp\IReporterApp.Droid\obj\Debug\res\drawable-xxhdpi\ic_message_white_24dp.png
+C:\Users\farquard\Documents\Visual Studio 2015\Projects\IReporterApp\IReporterApp\IReporterApp.Droid\obj\Debug\R.cs.flag
+C:\Users\farquard\Documents\Visual Studio 2015\Projects\IReporterApp\IReporterApp\IReporterApp.Droid\obj\Debug\uploadflags.txt
+C:\Users\farquard\Documents\Visual Studio 2015\Projects\IReporterApp\IReporterApp\IReporterApp.Droid\bin\Debug\IReporterApp.Droid.dll.mdb
+C:\Users\farquard\Documents\Visual Studio 2015\Projects\IReporterApp\IReporterApp\IReporterApp.Droid\bin\Debug\IReporterApp.dll.mdb
+C:\Users\farquard\Documents\Visual Studio 2015\Projects\IReporterApp\IReporterApp\IReporterApp.Droid\bin\Debug\Java.Interop.dll.mdb
+C:\Users\farquard\Documents\Visual Studio 2015\Projects\IReporterApp\IReporterApp\IReporterApp.Droid\bin\Debug\Mono.Android.dll.mdb
+C:\Users\farquard\Documents\Visual Studio 2015\Projects\IReporterApp\IReporterApp\IReporterApp.Droid\bin\Debug\mscorlib.dll.mdb
+C:\Users\farquard\Documents\Visual Studio 2015\Projects\IReporterApp\IReporterApp\IReporterApp.Droid\bin\Debug\System.ComponentModel.Composition.dll.mdb
+C:\Users\farquard\Documents\Visual Studio 2015\Projects\IReporterApp\IReporterApp\IReporterApp.Droid\bin\Debug\System.Core.dll.mdb
+C:\Users\farquard\Documents\Visual Studio 2015\Projects\IReporterApp\IReporterApp\IReporterApp.Droid\bin\Debug\System.dll.mdb
+C:\Users\farquard\Documents\Visual Studio 2015\Projects\IReporterApp\IReporterApp\IReporterApp.Droid\bin\Debug\System.Net.Http.dll.mdb
+C:\Users\farquard\Documents\Visual Studio 2015\Projects\IReporterApp\IReporterApp\IReporterApp.Droid\bin\Debug\System.Runtime.Serialization.dll.mdb
+C:\Users\farquard\Documents\Visual Studio 2015\Projects\IReporterApp\IReporterApp\IReporterApp.Droid\bin\Debug\System.ServiceModel.Internals.dll.mdb
+C:\Users\farquard\Documents\Visual Studio 2015\Projects\IReporterApp\IReporterApp\IReporterApp.Droid\bin\Debug\System.Xml.dll.mdb
+C:\Users\farquard\Documents\Visual Studio 2015\Projects\IReporterApp\IReporterApp\IReporterApp.Droid\obj\Debug\android\assets\IReporterApp.dll.mdb
+C:\Users\farquard\Documents\Visual Studio 2015\Projects\IReporterApp\IReporterApp\IReporterApp.Droid\obj\Debug\android\assets\IReporterApp.Droid.dll.mdb
+C:\Users\farquard\Documents\Visual Studio 2015\Projects\IReporterApp\IReporterApp\IReporterApp.Droid\obj\Debug\android\assets\Java.Interop.dll.mdb
+C:\Users\farquard\Documents\Visual Studio 2015\Projects\IReporterApp\IReporterApp\IReporterApp.Droid\obj\Debug\android\assets\Mono.Android.dll.mdb
+C:\Users\farquard\Documents\Visual Studio 2015\Projects\IReporterApp\IReporterApp\IReporterApp.Droid\obj\Debug\android\assets\mscorlib.dll.mdb
+C:\Users\farquard\Documents\Visual Studio 2015\Projects\IReporterApp\IReporterApp\IReporterApp.Droid\obj\Debug\android\assets\System.ComponentModel.Composition.dll.mdb
+C:\Users\farquard\Documents\Visual Studio 2015\Projects\IReporterApp\IReporterApp\IReporterApp.Droid\obj\Debug\android\assets\System.Core.dll.mdb
+C:\Users\farquard\Documents\Visual Studio 2015\Projects\IReporterApp\IReporterApp\IReporterApp.Droid\obj\Debug\android\assets\System.dll.mdb
+C:\Users\farquard\Documents\Visual Studio 2015\Projects\IReporterApp\IReporterApp\IReporterApp.Droid\obj\Debug\android\assets\System.Net.Http.dll.mdb
+C:\Users\farquard\Documents\Visual Studio 2015\Projects\IReporterApp\IReporterApp\IReporterApp.Droid\obj\Debug\android\assets\System.Runtime.Serialization.dll.mdb
+C:\Users\farquard\Documents\Visual Studio 2015\Projects\IReporterApp\IReporterApp\IReporterApp.Droid\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
+C:\Users\farquard\Documents\Visual Studio 2015\Projects\IReporterApp\IReporterApp\IReporterApp.Droid\obj\Debug\android\assets\System.Xml.dll.mdb
+C:\Users\farquard\Documents\Visual Studio 2015\Projects\IReporterApp\IReporterApp\IReporterApp.Droid\bin\Debug\Newtonsoft.Json.dll
+C:\Users\farquard\Documents\Visual Studio 2015\Projects\IReporterApp\IReporterApp\IReporterApp.Droid\bin\Debug\Newtonsoft.Json.xml
+C:\Users\farquard\Documents\Visual Studio 2015\Projects\IReporterApp\IReporterApp\IReporterApp.Droid\bin\Debug\Microsoft.CSharp.dll.mdb
+C:\Users\farquard\Documents\Visual Studio 2015\Projects\IReporterApp\IReporterApp\IReporterApp.Droid\bin\Debug\Mono.CSharp.dll.mdb
+C:\Users\farquard\Documents\Visual Studio 2015\Projects\IReporterApp\IReporterApp\IReporterApp.Droid\bin\Debug\System.Xml.Linq.dll.mdb
+C:\Users\farquard\Documents\Visual Studio 2015\Projects\IReporterApp\IReporterApp\IReporterApp.Droid\obj\Debug\android\assets\Microsoft.CSharp.dll.mdb
+C:\Users\farquard\Documents\Visual Studio 2015\Projects\IReporterApp\IReporterApp\IReporterApp.Droid\obj\Debug\android\assets\Mono.CSharp.dll.mdb
+C:\Users\farquard\Documents\Visual Studio 2015\Projects\IReporterApp\IReporterApp\IReporterApp.Droid\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
+C:\Users\farquard\Documents\Visual Studio 2015\Projects\IReporterApp\IReporterApp\IReporterApp.Droid\obj\Debug\IReporterApp.Droid.dll.mdb
+C:\Users\Falabs\Downloads\DevAssets\Demo\IReporterApp (1)\IReporterApp\IReporterApp\IReporterApp.Droid\bin\Debug\IReporterApp.Droid.dll
+C:\Users\Falabs\Downloads\DevAssets\Demo\IReporterApp (1)\IReporterApp\IReporterApp\IReporterApp.Droid\bin\Debug\IReporterApp.Droid.pdb
+C:\Users\Falabs\Downloads\DevAssets\Demo\IReporterApp (1)\IReporterApp\IReporterApp\IReporterApp.Droid\bin\Debug\IReporterApp.Droid.apk
+C:\Users\Falabs\Downloads\DevAssets\Demo\IReporterApp (1)\IReporterApp\IReporterApp\IReporterApp.Droid\bin\Debug\IReporterApp.Droid-Signed.apk
+C:\Users\Falabs\Downloads\DevAssets\Demo\IReporterApp (1)\IReporterApp\IReporterApp\IReporterApp.Droid\bin\Debug\IReporterApp.dll
+C:\Users\Falabs\Downloads\DevAssets\Demo\IReporterApp (1)\IReporterApp\IReporterApp\IReporterApp.Droid\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Falabs\Downloads\DevAssets\Demo\IReporterApp (1)\IReporterApp\IReporterApp\IReporterApp.Droid\bin\Debug\IReporterApp.pdb
+C:\Users\Falabs\Downloads\DevAssets\Demo\IReporterApp (1)\IReporterApp\IReporterApp\IReporterApp.Droid\bin\Debug\IReporterApp.dll.mdb
+C:\Users\Falabs\Downloads\DevAssets\Demo\IReporterApp (1)\IReporterApp\IReporterApp\IReporterApp.Droid\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Falabs\Downloads\DevAssets\Demo\IReporterApp (1)\IReporterApp\IReporterApp\IReporterApp.Droid\obj\Debug\IReporterApp.Droid.csprojResolveAssemblyReference.cache
+C:\Users\Falabs\Downloads\DevAssets\Demo\IReporterApp (1)\IReporterApp\IReporterApp\IReporterApp.Droid\obj\Debug\IReporterApp.Droid.dll
+C:\Users\Falabs\Downloads\DevAssets\Demo\IReporterApp (1)\IReporterApp\IReporterApp\IReporterApp.Droid\obj\Debug\IReporterApp.Droid.pdb
+C:\Users\Falabs\Downloads\DevAssets\Demo\IReporterApp (1)\IReporterApp\IReporterApp\IReporterApp.Droid\obj\Debug\android\bin\IReporterApp.Droid.apk
+C:\Users\Falabs\Downloads\DevAssets\Demo\IReporterApp (1)\IReporterApp\IReporterApp\IReporterApp.Droid\obj\Debug\res\layout\ireporter_item_cell.xml
+C:\Users\Falabs\Downloads\DevAssets\Demo\IReporterApp (1)\IReporterApp\IReporterApp\IReporterApp.Droid\obj\Debug\res\layout\createreporter.xml
+C:\Users\Falabs\Downloads\DevAssets\Demo\IReporterApp (1)\IReporterApp\IReporterApp\IReporterApp.Droid\obj\Debug\res\layout\main.xml
+C:\Users\Falabs\Downloads\DevAssets\Demo\IReporterApp (1)\IReporterApp\IReporterApp\IReporterApp.Droid\obj\Debug\res\values\strings.xml
+C:\Users\Falabs\Downloads\DevAssets\Demo\IReporterApp (1)\IReporterApp\IReporterApp\IReporterApp.Droid\obj\Debug\res\drawable-hdpi\icon.png
+C:\Users\Falabs\Downloads\DevAssets\Demo\IReporterApp (1)\IReporterApp\IReporterApp\IReporterApp.Droid\obj\Debug\res\drawable-mdpi\icon.png
+C:\Users\Falabs\Downloads\DevAssets\Demo\IReporterApp (1)\IReporterApp\IReporterApp\IReporterApp.Droid\obj\Debug\res\drawable-xhdpi\icon.png
+C:\Users\Falabs\Downloads\DevAssets\Demo\IReporterApp (1)\IReporterApp\IReporterApp\IReporterApp.Droid\obj\Debug\res\drawable-xxhdpi\icon.png
+C:\Users\Falabs\Downloads\DevAssets\Demo\IReporterApp (1)\IReporterApp\IReporterApp\IReporterApp.Droid\obj\Debug\res\drawable-xxxhdpi\icon.png
+C:\Users\Falabs\Downloads\DevAssets\Demo\IReporterApp (1)\IReporterApp\IReporterApp\IReporterApp.Droid\obj\Debug\res\drawable-xxxhdpi\ic_search_white_24dp.png
+C:\Users\Falabs\Downloads\DevAssets\Demo\IReporterApp (1)\IReporterApp\IReporterApp\IReporterApp.Droid\obj\Debug\res\drawable-hdpi\ic_search_white_24dp.png
+C:\Users\Falabs\Downloads\DevAssets\Demo\IReporterApp (1)\IReporterApp\IReporterApp\IReporterApp.Droid\obj\Debug\res\drawable-mdpi\ic_search_white_24dp.png
+C:\Users\Falabs\Downloads\DevAssets\Demo\IReporterApp (1)\IReporterApp\IReporterApp\IReporterApp.Droid\obj\Debug\res\drawable-xhdpi\ic_search_white_24dp.png
+C:\Users\Falabs\Downloads\DevAssets\Demo\IReporterApp (1)\IReporterApp\IReporterApp\IReporterApp.Droid\obj\Debug\res\drawable-xxhdpi\ic_search_white_24dp.png
+C:\Users\Falabs\Downloads\DevAssets\Demo\IReporterApp (1)\IReporterApp\IReporterApp\IReporterApp.Droid\obj\Debug\res\drawable-xxxhdpi\ic_message_white_24dp.png
+C:\Users\Falabs\Downloads\DevAssets\Demo\IReporterApp (1)\IReporterApp\IReporterApp\IReporterApp.Droid\obj\Debug\res\drawable-hdpi\ic_message_white_24dp.png
+C:\Users\Falabs\Downloads\DevAssets\Demo\IReporterApp (1)\IReporterApp\IReporterApp\IReporterApp.Droid\obj\Debug\res\drawable-mdpi\ic_message_white_24dp.png
+C:\Users\Falabs\Downloads\DevAssets\Demo\IReporterApp (1)\IReporterApp\IReporterApp\IReporterApp.Droid\obj\Debug\res\drawable-xhdpi\ic_message_white_24dp.png
+C:\Users\Falabs\Downloads\DevAssets\Demo\IReporterApp (1)\IReporterApp\IReporterApp\IReporterApp.Droid\obj\Debug\res\drawable-xxhdpi\ic_message_white_24dp.png
+C:\Users\Falabs\Downloads\DevAssets\Demo\IReporterApp (1)\IReporterApp\IReporterApp\IReporterApp.Droid\obj\Debug\R.cs.flag
+C:\Users\Falabs\Downloads\DevAssets\Demo\IReporterApp (1)\IReporterApp\IReporterApp\IReporterApp.Droid\obj\Debug\uploadflags.txt
+C:\Users\Falabs\Downloads\DevAssets\Demo\IReporterApp (1)\IReporterApp\IReporterApp\IReporterApp.Droid\obj\Debug\IReporterApp.Droid.dll.mdb
+C:\Users\Falabs\Downloads\DevAssets\Demo\IReporterApp (1)\IReporterApp\IReporterApp\IReporterApp.Droid\bin\Debug\IReporterApp.Droid.dll.mdb

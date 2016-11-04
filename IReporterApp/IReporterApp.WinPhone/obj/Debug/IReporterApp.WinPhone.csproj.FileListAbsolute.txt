@@ -1,0 +1,91 @@
+C:\Users\farquard\Documents\Visual Studio 2015\Projects\IReporterApp\IReporterApp\IReporterApp.WinPhone\bin\Debug\App.xbf
+C:\Users\farquard\Documents\Visual Studio 2015\Projects\IReporterApp\IReporterApp\IReporterApp.WinPhone\bin\Debug\MainPage.xbf
+C:\Users\farquard\Documents\Visual Studio 2015\Projects\IReporterApp\IReporterApp\IReporterApp.WinPhone\bin\Debug\IReporterApp.WinPhone.xr.xml
+C:\Users\farquard\Documents\Visual Studio 2015\Projects\IReporterApp\IReporterApp\IReporterApp.WinPhone\bin\Debug\IReporterApp.WinPhone.exe
+C:\Users\farquard\Documents\Visual Studio 2015\Projects\IReporterApp\IReporterApp\IReporterApp.WinPhone\bin\Debug\IReporterApp.WinPhone.pdb
+C:\Users\farquard\Documents\Visual Studio 2015\Projects\IReporterApp\IReporterApp\IReporterApp.WinPhone\bin\Debug\resources.pri
+C:\Users\farquard\Documents\Visual Studio 2015\Projects\IReporterApp\IReporterApp\IReporterApp.WinPhone\bin\Debug\AppxManifest.xml
+C:\Users\farquard\Documents\Visual Studio 2015\Projects\IReporterApp\IReporterApp\IReporterApp.WinPhone\bin\Debug\IReporterApp.WinPhone.build.appxrecipe
+C:\Users\farquard\Documents\Visual Studio 2015\Projects\IReporterApp\IReporterApp\IReporterApp.WinPhone\bin\Debug\IReporterApp.dll
+C:\Users\farquard\Documents\Visual Studio 2015\Projects\IReporterApp\IReporterApp\IReporterApp.WinPhone\bin\Debug\IReporterApp.pdb
+C:\Users\farquard\Documents\Visual Studio 2015\Projects\IReporterApp\IReporterApp\IReporterApp.WinPhone\obj\Debug\IReporterApp.WinPhone.csprojResolveAssemblyReference.cache
+C:\Users\farquard\Documents\Visual Studio 2015\Projects\IReporterApp\IReporterApp\IReporterApp.WinPhone\obj\Debug\App.g.i.cs
+C:\Users\farquard\Documents\Visual Studio 2015\Projects\IReporterApp\IReporterApp\IReporterApp.WinPhone\obj\Debug\App.g.cs
+C:\Users\farquard\Documents\Visual Studio 2015\Projects\IReporterApp\IReporterApp\IReporterApp.WinPhone\obj\Debug\MainPage.g.i.cs
+C:\Users\farquard\Documents\Visual Studio 2015\Projects\IReporterApp\IReporterApp\IReporterApp.WinPhone\obj\Debug\MainPage.g.cs
+C:\Users\farquard\Documents\Visual Studio 2015\Projects\IReporterApp\IReporterApp\IReporterApp.WinPhone\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\farquard\Documents\Visual Studio 2015\Projects\IReporterApp\IReporterApp\IReporterApp.WinPhone\obj\Debug\App.xaml
+C:\Users\farquard\Documents\Visual Studio 2015\Projects\IReporterApp\IReporterApp\IReporterApp.WinPhone\obj\Debug\MainPage.xaml
+C:\Users\farquard\Documents\Visual Studio 2015\Projects\IReporterApp\IReporterApp\IReporterApp.WinPhone\obj\Debug\App.xbf
+C:\Users\farquard\Documents\Visual Studio 2015\Projects\IReporterApp\IReporterApp\IReporterApp.WinPhone\obj\Debug\MainPage.xbf
+C:\Users\farquard\Documents\Visual Studio 2015\Projects\IReporterApp\IReporterApp\IReporterApp.WinPhone\obj\Debug\XamlSaveStateFile.xml
+C:\Users\farquard\Documents\Visual Studio 2015\Projects\IReporterApp\IReporterApp\IReporterApp.WinPhone\obj\Debug\IReporterApp.WinPhone.exe
+C:\Users\farquard\Documents\Visual Studio 2015\Projects\IReporterApp\IReporterApp\IReporterApp.WinPhone\obj\Debug\IReporterApp.WinPhone.pdb
+C:\Users\farquard\Documents\Visual Studio 2015\Projects\IReporterApp\IReporterApp\IReporterApp.WinPhone\obj\Debug\IReporterApp.WinPhone.csproj.GenerateResource.Cache
+C:\Users\farquard\Documents\Visual Studio 2015\Projects\IReporterApp\IReporterApp\IReporterApp.WinPhone\obj\Debug\priconfig.xml
+C:\Users\farquard\Documents\Visual Studio 2015\Projects\IReporterApp\IReporterApp\IReporterApp.WinPhone\obj\Debug\priconfig.xml.intermediate
+C:\Users\farquard\Documents\Visual Studio 2015\Projects\IReporterApp\IReporterApp\IReporterApp.WinPhone\obj\Debug\layout.resfiles
+C:\Users\farquard\Documents\Visual Studio 2015\Projects\IReporterApp\IReporterApp\IReporterApp.WinPhone\obj\Debug\layout.resfiles.intermediate
+C:\Users\farquard\Documents\Visual Studio 2015\Projects\IReporterApp\IReporterApp\IReporterApp.WinPhone\obj\Debug\resources.resfiles
+C:\Users\farquard\Documents\Visual Studio 2015\Projects\IReporterApp\IReporterApp\IReporterApp.WinPhone\obj\Debug\resources.resfiles.intermediate
+C:\Users\farquard\Documents\Visual Studio 2015\Projects\IReporterApp\IReporterApp\IReporterApp.WinPhone\obj\Debug\pri.resfiles
+C:\Users\farquard\Documents\Visual Studio 2015\Projects\IReporterApp\IReporterApp\IReporterApp.WinPhone\obj\Debug\pri.resfiles.intermediate
+C:\Users\farquard\Documents\Visual Studio 2015\Projects\IReporterApp\IReporterApp\IReporterApp.WinPhone\obj\Debug\qualifiers.txt
+C:\Users\farquard\Documents\Visual Studio 2015\Projects\IReporterApp\IReporterApp\IReporterApp.WinPhone\obj\Debug\qualifiers.txt.intermediate
+C:\Users\farquard\Documents\Visual Studio 2015\Projects\IReporterApp\IReporterApp\IReporterApp.WinPhone\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\farquard\Documents\Visual Studio 2015\Projects\IReporterApp\IReporterApp\IReporterApp.WinPhone\obj\Debug\ProjectArchitectures.txt
+C:\Users\farquard\Documents\Visual Studio 2015\Projects\IReporterApp\IReporterApp\IReporterApp.WinPhone\bin\Debug\CreateReport.xbf
+C:\Users\farquard\Documents\Visual Studio 2015\Projects\IReporterApp\IReporterApp\IReporterApp.WinPhone\bin\Debug\Newtonsoft.Json.dll
+C:\Users\farquard\Documents\Visual Studio 2015\Projects\IReporterApp\IReporterApp\IReporterApp.WinPhone\bin\Debug\Newtonsoft.Json.xml
+C:\Users\farquard\Documents\Visual Studio 2015\Projects\IReporterApp\IReporterApp\IReporterApp.WinPhone\obj\Debug\CreateReport.g.i.cs
+C:\Users\farquard\Documents\Visual Studio 2015\Projects\IReporterApp\IReporterApp\IReporterApp.WinPhone\obj\Debug\CreateReport.g.cs
+C:\Users\farquard\Documents\Visual Studio 2015\Projects\IReporterApp\IReporterApp\IReporterApp.WinPhone\obj\Debug\CreateReport.xaml
+C:\Users\farquard\Documents\Visual Studio 2015\Projects\IReporterApp\IReporterApp\IReporterApp.WinPhone\obj\Debug\CreateReport.xbf
+C:\Users\farquard\Documents\Visual Studio 2015\Projects\IReporterApp\IReporterApp\IReporterApp.WinPhone\bin\Debug\BasicPage1.xbf
+C:\Users\farquard\Documents\Visual Studio 2015\Projects\IReporterApp\IReporterApp\IReporterApp.WinPhone\obj\Debug\BasicPage1.g.i.cs
+C:\Users\farquard\Documents\Visual Studio 2015\Projects\IReporterApp\IReporterApp\IReporterApp.WinPhone\obj\Debug\BasicPage1.g.cs
+C:\Users\farquard\Documents\Visual Studio 2015\Projects\IReporterApp\IReporterApp\IReporterApp.WinPhone\obj\Debug\BasicPage1.xaml
+C:\Users\farquard\Documents\Visual Studio 2015\Projects\IReporterApp\IReporterApp\IReporterApp.WinPhone\obj\Debug\BasicPage1.xbf
+C:\Users\Falabs\Downloads\DevAssets\Demo\IReporterApp (1)\IReporterApp\IReporterApp\IReporterApp.WinPhone\bin\Debug\App.xbf
+C:\Users\Falabs\Downloads\DevAssets\Demo\IReporterApp (1)\IReporterApp\IReporterApp\IReporterApp.WinPhone\bin\Debug\CreateReport.xbf
+C:\Users\Falabs\Downloads\DevAssets\Demo\IReporterApp (1)\IReporterApp\IReporterApp\IReporterApp.WinPhone\bin\Debug\MainPage.xbf
+C:\Users\Falabs\Downloads\DevAssets\Demo\IReporterApp (1)\IReporterApp\IReporterApp\IReporterApp.WinPhone\bin\Debug\IReporterApp.WinPhone.xr.xml
+C:\Users\Falabs\Downloads\DevAssets\Demo\IReporterApp (1)\IReporterApp\IReporterApp\IReporterApp.WinPhone\bin\Debug\IReporterApp.WinPhone.exe
+C:\Users\Falabs\Downloads\DevAssets\Demo\IReporterApp (1)\IReporterApp\IReporterApp\IReporterApp.WinPhone\bin\Debug\IReporterApp.WinPhone.pdb
+C:\Users\Falabs\Downloads\DevAssets\Demo\IReporterApp (1)\IReporterApp\IReporterApp\IReporterApp.WinPhone\bin\Debug\resources.pri
+C:\Users\Falabs\Downloads\DevAssets\Demo\IReporterApp (1)\IReporterApp\IReporterApp\IReporterApp.WinPhone\bin\Debug\AppxManifest.xml
+C:\Users\Falabs\Downloads\DevAssets\Demo\IReporterApp (1)\IReporterApp\IReporterApp\IReporterApp.WinPhone\bin\Debug\IReporterApp.WinPhone.build.appxrecipe
+C:\Users\Falabs\Downloads\DevAssets\Demo\IReporterApp (1)\IReporterApp\IReporterApp\IReporterApp.WinPhone\bin\Debug\IReporterApp.dll
+C:\Users\Falabs\Downloads\DevAssets\Demo\IReporterApp (1)\IReporterApp\IReporterApp\IReporterApp.WinPhone\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Falabs\Downloads\DevAssets\Demo\IReporterApp (1)\IReporterApp\IReporterApp\IReporterApp.WinPhone\bin\Debug\IReporterApp.pdb
+C:\Users\Falabs\Downloads\DevAssets\Demo\IReporterApp (1)\IReporterApp\IReporterApp\IReporterApp.WinPhone\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Falabs\Downloads\DevAssets\Demo\IReporterApp (1)\IReporterApp\IReporterApp\IReporterApp.WinPhone\obj\Debug\IReporterApp.WinPhone.csprojResolveAssemblyReference.cache
+C:\Users\Falabs\Downloads\DevAssets\Demo\IReporterApp (1)\IReporterApp\IReporterApp\IReporterApp.WinPhone\obj\Debug\App.g.i.cs
+C:\Users\Falabs\Downloads\DevAssets\Demo\IReporterApp (1)\IReporterApp\IReporterApp\IReporterApp.WinPhone\obj\Debug\App.g.cs
+C:\Users\Falabs\Downloads\DevAssets\Demo\IReporterApp (1)\IReporterApp\IReporterApp\IReporterApp.WinPhone\obj\Debug\CreateReport.g.i.cs
+C:\Users\Falabs\Downloads\DevAssets\Demo\IReporterApp (1)\IReporterApp\IReporterApp\IReporterApp.WinPhone\obj\Debug\CreateReport.g.cs
+C:\Users\Falabs\Downloads\DevAssets\Demo\IReporterApp (1)\IReporterApp\IReporterApp\IReporterApp.WinPhone\obj\Debug\MainPage.g.i.cs
+C:\Users\Falabs\Downloads\DevAssets\Demo\IReporterApp (1)\IReporterApp\IReporterApp\IReporterApp.WinPhone\obj\Debug\MainPage.g.cs
+C:\Users\Falabs\Downloads\DevAssets\Demo\IReporterApp (1)\IReporterApp\IReporterApp\IReporterApp.WinPhone\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Falabs\Downloads\DevAssets\Demo\IReporterApp (1)\IReporterApp\IReporterApp\IReporterApp.WinPhone\obj\Debug\App.xaml
+C:\Users\Falabs\Downloads\DevAssets\Demo\IReporterApp (1)\IReporterApp\IReporterApp\IReporterApp.WinPhone\obj\Debug\CreateReport.xaml
+C:\Users\Falabs\Downloads\DevAssets\Demo\IReporterApp (1)\IReporterApp\IReporterApp\IReporterApp.WinPhone\obj\Debug\MainPage.xaml
+C:\Users\Falabs\Downloads\DevAssets\Demo\IReporterApp (1)\IReporterApp\IReporterApp\IReporterApp.WinPhone\obj\Debug\App.xbf
+C:\Users\Falabs\Downloads\DevAssets\Demo\IReporterApp (1)\IReporterApp\IReporterApp\IReporterApp.WinPhone\obj\Debug\CreateReport.xbf
+C:\Users\Falabs\Downloads\DevAssets\Demo\IReporterApp (1)\IReporterApp\IReporterApp\IReporterApp.WinPhone\obj\Debug\MainPage.xbf
+C:\Users\Falabs\Downloads\DevAssets\Demo\IReporterApp (1)\IReporterApp\IReporterApp\IReporterApp.WinPhone\obj\Debug\XamlSaveStateFile.xml
+C:\Users\Falabs\Downloads\DevAssets\Demo\IReporterApp (1)\IReporterApp\IReporterApp\IReporterApp.WinPhone\obj\Debug\IReporterApp.WinPhone.exe
+C:\Users\Falabs\Downloads\DevAssets\Demo\IReporterApp (1)\IReporterApp\IReporterApp\IReporterApp.WinPhone\obj\Debug\IReporterApp.WinPhone.pdb
+C:\Users\Falabs\Downloads\DevAssets\Demo\IReporterApp (1)\IReporterApp\IReporterApp\IReporterApp.WinPhone\obj\Debug\IReporterApp.WinPhone.csproj.GenerateResource.Cache
+C:\Users\Falabs\Downloads\DevAssets\Demo\IReporterApp (1)\IReporterApp\IReporterApp\IReporterApp.WinPhone\obj\Debug\priconfig.xml
+C:\Users\Falabs\Downloads\DevAssets\Demo\IReporterApp (1)\IReporterApp\IReporterApp\IReporterApp.WinPhone\obj\Debug\priconfig.xml.intermediate
+C:\Users\Falabs\Downloads\DevAssets\Demo\IReporterApp (1)\IReporterApp\IReporterApp\IReporterApp.WinPhone\obj\Debug\layout.resfiles
+C:\Users\Falabs\Downloads\DevAssets\Demo\IReporterApp (1)\IReporterApp\IReporterApp\IReporterApp.WinPhone\obj\Debug\layout.resfiles.intermediate
+C:\Users\Falabs\Downloads\DevAssets\Demo\IReporterApp (1)\IReporterApp\IReporterApp\IReporterApp.WinPhone\obj\Debug\resources.resfiles
+C:\Users\Falabs\Downloads\DevAssets\Demo\IReporterApp (1)\IReporterApp\IReporterApp\IReporterApp.WinPhone\obj\Debug\resources.resfiles.intermediate
+C:\Users\Falabs\Downloads\DevAssets\Demo\IReporterApp (1)\IReporterApp\IReporterApp\IReporterApp.WinPhone\obj\Debug\pri.resfiles
+C:\Users\Falabs\Downloads\DevAssets\Demo\IReporterApp (1)\IReporterApp\IReporterApp\IReporterApp.WinPhone\obj\Debug\pri.resfiles.intermediate
+C:\Users\Falabs\Downloads\DevAssets\Demo\IReporterApp (1)\IReporterApp\IReporterApp\IReporterApp.WinPhone\obj\Debug\qualifiers.txt
+C:\Users\Falabs\Downloads\DevAssets\Demo\IReporterApp (1)\IReporterApp\IReporterApp\IReporterApp.WinPhone\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Falabs\Downloads\DevAssets\Demo\IReporterApp (1)\IReporterApp\IReporterApp\IReporterApp.WinPhone\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Falabs\Downloads\DevAssets\Demo\IReporterApp (1)\IReporterApp\IReporterApp\IReporterApp.WinPhone\obj\Debug\ProjectArchitectures.txt

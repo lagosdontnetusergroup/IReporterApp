@@ -1,0 +1,2 @@
+C:\Users\Falabs\Downloads\DevAssets\Demo\IReporterApp (1)\IReporterApp\IReporterApp\IReporterApp.WinPhone\IReporterApp.WinPhone.csproj;neutral
+C:\Users\Falabs\Downloads\DevAssets\Demo\IReporterApp (1)\IReporterApp\IReporterApp\IReporterApp\IReporterApp.csproj;neutral

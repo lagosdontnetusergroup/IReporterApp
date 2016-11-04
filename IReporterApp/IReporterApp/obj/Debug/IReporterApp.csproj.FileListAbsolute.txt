@@ -1,0 +1,30 @@
+C:\Users\farquard\Documents\Visual Studio 2015\Projects\IReporterApp\IReporterApp\IReporterApp\bin\Debug\IReporterApp.dll.config
+C:\Users\farquard\Documents\Visual Studio 2015\Projects\IReporterApp\IReporterApp\IReporterApp\bin\Debug\IReporterApp.dll
+C:\Users\farquard\Documents\Visual Studio 2015\Projects\IReporterApp\IReporterApp\IReporterApp\bin\Debug\IReporterApp.pdb
+C:\Users\farquard\Documents\Visual Studio 2015\Projects\IReporterApp\IReporterApp\IReporterApp\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\farquard\Documents\Visual Studio 2015\Projects\IReporterApp\IReporterApp\IReporterApp\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\farquard\Documents\Visual Studio 2015\Projects\IReporterApp\IReporterApp\IReporterApp\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\farquard\Documents\Visual Studio 2015\Projects\IReporterApp\IReporterApp\IReporterApp\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\farquard\Documents\Visual Studio 2015\Projects\IReporterApp\IReporterApp\IReporterApp\obj\Debug\IReporterApp.csproj.App.config
+C:\Users\farquard\Documents\Visual Studio 2015\Projects\IReporterApp\IReporterApp\IReporterApp\obj\Debug\IReporterApp.csprojResolveAssemblyReference.cache
+C:\Users\farquard\Documents\Visual Studio 2015\Projects\IReporterApp\IReporterApp\IReporterApp\obj\Debug\IReporterApp.dll
+C:\Users\farquard\Documents\Visual Studio 2015\Projects\IReporterApp\IReporterApp\IReporterApp\obj\Debug\IReporterApp.pdb
+C:\Users\farquard\Documents\Visual Studio 2015\Projects\IReporterApp\IReporterApp\IReporterApp\obj\Debug\IReporterApp.dll.mdb
+C:\Users\farquard\Documents\Visual Studio 2015\Projects\IReporterApp\IReporterApp\IReporterApp\bin\Debug\IReporterApp.dll.mdb
+C:\Users\Falabs\Downloads\DevAssets\Demo\IReporterApp (1)\IReporterApp\IReporterApp\IReporterApp\bin\Debug\IReporterApp.dll.config
+C:\Users\Falabs\Downloads\DevAssets\Demo\IReporterApp (1)\IReporterApp\IReporterApp\IReporterApp\bin\Debug\IReporterApp.dll
+C:\Users\Falabs\Downloads\DevAssets\Demo\IReporterApp (1)\IReporterApp\IReporterApp\IReporterApp\bin\Debug\IReporterApp.pdb
+C:\Users\Falabs\Downloads\DevAssets\Demo\IReporterApp (1)\IReporterApp\IReporterApp\IReporterApp\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\Falabs\Downloads\DevAssets\Demo\IReporterApp (1)\IReporterApp\IReporterApp\IReporterApp\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\Falabs\Downloads\DevAssets\Demo\IReporterApp (1)\IReporterApp\IReporterApp\IReporterApp\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\Falabs\Downloads\DevAssets\Demo\IReporterApp (1)\IReporterApp\IReporterApp\IReporterApp\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\Falabs\Downloads\DevAssets\Demo\IReporterApp (1)\IReporterApp\IReporterApp\IReporterApp\obj\Debug\IReporterApp.csproj.App.config
+C:\Users\Falabs\Downloads\DevAssets\Demo\IReporterApp (1)\IReporterApp\IReporterApp\IReporterApp\obj\Debug\IReporterApp.csprojResolveAssemblyReference.cache
+C:\Users\Falabs\Downloads\DevAssets\Demo\IReporterApp (1)\IReporterApp\IReporterApp\IReporterApp\obj\Debug\IReporterApp.dll
+C:\Users\Falabs\Downloads\DevAssets\Demo\IReporterApp (1)\IReporterApp\IReporterApp\IReporterApp\obj\Debug\IReporterApp.pdb
+C:\Users\Falabs\Downloads\DevAssets\Demo\IReporterApp (1)\IReporterApp\IReporterApp\IReporterApp\obj\Debug\IReporterApp.dll.mdb
+C:\Users\Falabs\Downloads\DevAssets\Demo\IReporterApp (1)\IReporterApp\IReporterApp\IReporterApp\bin\Debug\IReporterApp.dll.mdb
+C:\Users\Falabs\Downloads\DevAssets\Demo\IReporterApp (1)\IReporterApp\IReporterApp\IReporterApp\obj\Debug\IReporterApp.dll.mdb
+C:\Users\Falabs\Downloads\DevAssets\Demo\IReporterApp (1)\IReporterApp\IReporterApp\IReporterApp\bin\Debug\IReporterApp.dll.mdb
+C:\Users\Falabs\Downloads\DevAssets\Demo\IReporterApp (1)\IReporterApp\IReporterApp\IReporterApp\obj\Debug\IReporterApp.dll.mdb
+C:\Users\Falabs\Downloads\DevAssets\Demo\IReporterApp (1)\IReporterApp\IReporterApp\IReporterApp\bin\Debug\IReporterApp.dll.mdb

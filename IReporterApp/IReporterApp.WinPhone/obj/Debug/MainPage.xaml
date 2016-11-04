@@ -1,0 +1,53 @@
+﻿<Page x:ConnectionId='1'
+    x:Class="IReporterApp.WinPhone.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:IReporterApp.WinPhone"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}"                     >
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+
+        
+
+
+        <ListView x:Name="lst1Report" Margin="10">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <StackPanel Orientation="Vertical" HorizontalAlignment="Stretch">
+                        <TextBlock Text="{Binding Title}" FontWeight="SemiBold" FontSize="15" FontFamily="Global User Interface"/>
+                        <TextBlock Text="{Binding Message}" FontSize="12"/>
+                        <TextBlock Text="{Binding Location}" TextAlignment="Right"/>
+                        <TextBlock Text="{Binding StrDateTime}" TextAlignment="Right"/>
+                    </StackPanel>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+
+        <Grid Grid.Row="1" Margin="10" Background="#4f61bb">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+            <Button Margin="10,0" BorderBrush="Transparent">
+                <Button.Background>
+                    <ImageBrush ImageSource="Assets/ic_search_white_24dp.png" Stretch="Uniform"/>
+                </Button.Background>
+            </Button>
+
+            <Button x:ConnectionId='2' x:Name="btnAdd" Margin="10,0" Grid.Column="1" BorderBrush="Transparent"                     >
+                <Button.Background>
+                    <ImageBrush ImageSource="Assets/ic_message_white_24dp.png" Stretch="Uniform"/>
+                </Button.Background>
+            </Button>
+        </Grid>
+    </Grid>
+</Page>
+
